@@ -7,7 +7,7 @@
 3. Get the eigen values and eigen vectors of Sigma
 4. Reshape the the first 4 eigen vectors corresponding to the highest eigen values and display them using imagesc.
 5. Reshape the the last 4 eigen vectors corresponding to the lowest eigen values and display them using imagesc.
-6. Repeat the above for digit 5
+6. Repeat the above for digit 7
 
 # DISPLAY FACES
 
