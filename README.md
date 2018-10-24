@@ -9,7 +9,7 @@
 5. Reshape the the last 4 eigen vectors corresponding to the lowest eigen values and display them using imagesc.
 6. Repeat the above for digit 7
 
-# DISPLAY FACES
+# DISPLAY EIGEN FACES
 
 1. Take around 8-10 photographs.
 2. Convert the images to grayscale and crop them to a more manageable size, e.g., 32x32.
